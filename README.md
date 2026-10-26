@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DataSentry ML
 CPU-only data-quality profiling, corruption detection, and model evaluation dashboard.
 
@@ -131,3 +132,7 @@ Suggested future improvements
 - Add validation-only model selection and preserve an untouched final test set.
 License
 Add a license before publishing or distributing this project. Until a license is included, do not assume others have permission to reuse the code.
+=======
+# DataSentry-ML
+CPU-only machine-learning data quality profiling and anomaly detection dashboard built with Python and Streamlit.
+>>>>>>> origin/main
